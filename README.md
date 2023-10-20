@@ -149,6 +149,9 @@ echo file_get_contents('path/to/package/icons/simpleicons.svg');
 
 ## Third-Party Extensions
 
+## Future Requirement
+Seperate the icons.json seperated by icon names
+
 | Extension | Author |
 | :-- | :-- |
 | [Angular module](https://github.com/avmaisak/ngx-simple-icons) <img src="https://cdn.simpleicons.org/angular/000/fff" alt="Angular" align=left width=24 height=24> | [@avmaisak](https://github.com/avmaisak) |
